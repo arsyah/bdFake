@@ -1,0 +1,62 @@
+[
+    {
+        "name": "UU/PERPU",
+        "id": "3"
+    },
+    {
+        "name": "Peraturan Pemerintah",
+        "id": "5"
+    },
+    {
+        "name": "Peraturan Presiden",
+        "id": "7"
+    },
+    {
+        "name": "Keputusan Presiden",
+        "id": "61"
+    },
+    {
+        "name": "Instruksi Presiden",
+        "id": "8"
+    },
+    {
+        "name": "Peraturan Menteri",
+        "id": "9"
+    },
+    {
+        "name": "Keputusan Menteri",
+        "id": "11"
+    },
+    {
+        "name": "Instruksi Menteri",
+        "id": "10"
+    },
+    {
+        "name": "Surat Edaran Menteri",
+        "id": "12"
+    },
+    {
+        "name": "Peraturan Tk Eselon I",
+        "id": "26"
+    },
+    {
+        "name": "Keputusan Tk Eselon I",
+        "id": "34"
+    },
+    {
+        "name": "SE Tk Eselon I",
+        "id": "42"
+    },
+    {
+        "name": "Instruksi Tk Eselon I",
+        "id": "50"
+    },
+    {
+        "name": "Rancangan Peraturan",
+        "id": "25"
+    },
+    {
+        "name": "MOU",
+        "id": "58"
+    }
+]

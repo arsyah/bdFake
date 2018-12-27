@@ -363,50 +363,6 @@
             "kdunit": null
         },
         {
-            "id": "26",
-            "parent": "0",
-            "name": "Peraturan Tk Eselon I",
-            "desc": "Peraturan Tingkat Eselon I",
-            "published": "1",
-            "checked_out": "0",
-            "checked_out_time": "0000-00-00 00:00:00",
-            "ordering": "14",
-            "kdunit": null
-        },
-        {
-            "id": "34",
-            "parent": "0",
-            "name": "Keputusan Tk Eselon I",
-            "desc": "Keputusan Tingkat Eselon I",
-            "published": "1",
-            "checked_out": "0",
-            "checked_out_time": "0000-00-00 00:00:00",
-            "ordering": "15",
-            "kdunit": null
-        },
-        {
-            "id": "42",
-            "parent": "0",
-            "name": "SE Tk Eselon I",
-            "desc": "Surat Edaran Tk Eselon I",
-            "published": "1",
-            "checked_out": "0",
-            "checked_out_time": "0000-00-00 00:00:00",
-            "ordering": "16",
-            "kdunit": null
-        },
-        {
-            "id": "50",
-            "parent": "0",
-            "name": "Instruksi Tk Eselon I",
-            "desc": "Instruksi Tk Eselon I",
-            "published": "1",
-            "checked_out": "0",
-            "checked_out_time": "0000-00-00 00:00:00",
-            "ordering": "17",
-            "kdunit": null
-        },
-        {
             "id": "25",
             "parent": "0",
             "name": "Rancangan Peraturan",
